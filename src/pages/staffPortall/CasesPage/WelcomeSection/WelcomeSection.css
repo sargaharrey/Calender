@@ -1,0 +1,30 @@
+.welcomeAlign {
+    text-align: right;
+    text-align: -moz-right;
+    text-align: -webkit-right;
+}
+
+.welcomeActive {
+    color: #AE965A99;
+}
+
+.welcomeImg {
+    width: 562px;
+    height: 120px;
+    left: 985px;
+    border-radius: 40px 0px 0px 0px;
+}
+
+.welcomeP {
+    position: absolute;
+    width: 100%;
+    height: 49px;
+    left: -50px;
+    top: 35px;
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 800;
+    line-height: 49px;
+    text-align: right;
+    color: #FFFFFF;
+}
